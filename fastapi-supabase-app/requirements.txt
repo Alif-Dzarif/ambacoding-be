@@ -1,0 +1,12 @@
+FastAPI
+uvicorn
+supabase
+alembic
+sqlalchemy
+pydantic
+python-dotenv
+passlib
+httpx
+pytest
+pytest-asyncio
+httpx[http2]
